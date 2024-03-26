@@ -1,0 +1,134 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 11,
+  "numPassedTests": 11,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1711403220059,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç operations değeri + olarak doğru ayarlanmış",
+          "status": "passed",
+          "title": "Başlangıç operations değeri + olarak doğru ayarlanmış",
+          "duration": 70,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç memory değeri 0 olarak doğru ayarlanmış",
+          "status": "passed",
+          "title": "Başlangıç memory değeri 0 olarak doğru ayarlanmış",
+          "duration": 14,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç total değeri 0 olarak doğru ayarlanmış",
+          "status": "passed",
+          "title": "Başlangıç total değeri 0 olarak doğru ayarlanmış",
+          "duration": 15,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " 1, 2, 3 rakamına tıklanınca ekranda 123 sayısını gösteriyor",
+          "status": "passed",
+          "title": "1, 2, 3 rakamına tıklanınca ekranda 123 sayısını gösteriyor",
+          "duration": 258,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CE ekranı sıfırlıyor",
+          "status": "passed",
+          "title": "CE ekranı sıfırlıyor",
+          "duration": 154,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " operatörlere tıklanınca ekranda 0 görünüyor.",
+          "status": "passed",
+          "title": "operatörlere tıklanınca ekranda 0 görünüyor.",
+          "duration": 526,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " operatörlere tıklanınca Operation: metni doğru işlemi gösteriyor.",
+          "status": "passed",
+          "title": "operatörlere tıklanınca Operation: metni doğru işlemi gösteriyor.",
+          "duration": 280,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Memory add(M+) butonu ekrandaki değeri hafızaya(memory) aktarıyor.",
+          "status": "passed",
+          "title": "Memory add(M+) butonu ekrandaki değeri hafızaya(memory) aktarıyor.",
+          "duration": 156,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Memory clear(MC) butonu memorydeki değeri sıfırlıyor.",
+          "status": "passed",
+          "title": "Memory clear(MC) butonu memorydeki değeri sıfırlıyor.",
+          "duration": 245,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Memory recall(MR) butonu memorydeki değeri ekrana getiriyor.",
+          "status": "passed",
+          "title": "Memory recall(MR) butonu memorydeki değeri ekrana getiriyor.",
+          "duration": 307,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " = ile işlemin sonucu ekrana geliyor. (23-15 = 8)",
+          "status": "passed",
+          "title": "= ile işlemin sonucu ekrana geliyor. (23-15 = 8)",
+          "duration": 433,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1711403223629,
+      "endTime": 1711403226087,
+      "status": "passed",
+      "message": "",
+      "name": "C:/Users/YÜCE/Desktop/workitech/sprint 10/gün 1/test/s10-g1-t1-(hesap makinesi)/src/__tests__/index.test.jsx"
+    }
+  ]
+}
